@@ -1,4 +1,7 @@
-# Genome Sex Determination Analysis of *Vanessa cardui*
+# Genome Sex Determination Analysis of *Vanessa cardui* 
+
+Student: Hobe Lagurin Palopalo  
+Course: Cell and Molecular Biology  
 
 ## 1. Introduction
 
@@ -87,13 +90,13 @@ RStudio was used to generate graphical representations of chromosome sequencing 
 
 ### Figure 1. Chromosome Sequencing Depth
 
-![Chromosome Sequencing Depth](figures/chromosome_coverage.png)
+![Chromosome Sequencing Depth](chromosome_coverage.png)
 
 *Figure 1. Mean sequencing depth across the chromosomes of Vanessa cardui.*
 
 ### Figure 2. Mean Coverage by Chromosome Group
 
-![Mean Coverage by Chromosome Group](figures/group_coverage_comparison.png)
+![Mean Coverage by Chromosome Group](group_coverage_comparison.png)
 
 *Figure 2. Comparison of mean sequencing depth among autosomes, Z chromosome, and W chromosome.*
 
